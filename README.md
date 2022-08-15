@@ -7,7 +7,7 @@ run the project in the definitions file ➡➡ https://github.com/Seyed-Soheil-A
 
 And to see the pseudo-code of the program, refer to
 
-the flowchart file ➡➡ https://github.com/Seyed-Soheil-Amini/Airport-System/ProcessFlowchart.png
+the flowchart file ➡➡ https://github.com/Seyed-Soheil-Amini/Airport-System/blob/main/ProcessFlowchart.png
 
 
 😊😊 I hope it is useful for you 😊😊
